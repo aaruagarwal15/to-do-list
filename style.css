@@ -1,0 +1,33 @@
+.outer {
+    border: black 3px solid;
+    box-shadow: 3px 3px grey;
+    width:60%;
+    margin-left:250px;
+    margin-top:10px;
+    padding-left:15px;
+    padding-right:30px;
+    padding-bottom: 10px;
+    
+}
+.header {
+    color:brown;
+    font-family:"Algerian";
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+#input{
+    border-radius:3px;
+}
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    background: #D5CCCC;
+    font-size: 18px;
+    
+}
+ul li:hover{
+    background-color: #ddd;
+}
